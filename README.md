@@ -11,7 +11,7 @@ The code has been tested under Python 3.6.5. The required packages are as follow
 
 ## Data Sets
 We used the following data sets in our experiments:
-* [Office-Home] (https://www.hemanthdv.org/officeHomeDataset.html)
+* [Office-Home](https://www.hemanthdv.org/officeHomeDataset.html)
 * [Office-31](https://people.eecs.berkeley.edu/~jhoffman/domainadapt/)
 * [Syn2Real-O](https://ai.bu.edu/visda-2018/)
 
